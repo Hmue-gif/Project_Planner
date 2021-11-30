@@ -1,10 +1,11 @@
 {
-  "name": "project_planner",
+  "name": "ctsct_planner",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "watch" : "json-server --watch database/project.json"
   },
   "dependencies": {
     "core-js": "^3.6.5",

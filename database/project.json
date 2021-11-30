@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "title": "My first project",
+      "details": "details 1",
+      "isDone": false,
+      "id": 1
+    }
+  ]
+}
